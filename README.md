@@ -110,9 +110,8 @@ Below are the **interactive Power BI dashboard pages** created for this project:
 
 ## 👨‍💻 Prepared By
 
-| Name | Role | Email |
-|------|------|--------|
-| **Pruthiraj Samal** | Data Analyst | [pruthirajsamal8802@gmail.com](mailto:pruthirajsamal8802@gmail.com) |
+**Name:** Pruthiraj Samal  
+**Email:** pruthirajsamal8802@gmail.com  
 
 ---
 
