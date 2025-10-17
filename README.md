@@ -55,11 +55,12 @@ The analysis helps identify customer preferences, revenue trends, and marketing 
 ## 🧩 Power BI Dashboard Overview
 Below are the **interactive Power BI dashboard pages** created for this project:
 
-### 📊 Dashboard Page 1 — Overview, Gender & Category Insights
-<img width="1240" height="714" alt="image" src="https://github.com/user-attachments/assets/eb2d9573-9e4e-454b-9fbb-11c44a906073" />
+### 📊 Dashboard Page 1 —
+<img width="1240" height="714" alt="image" src="https://github.com/user-attachments/assets/97a2633c-9611-4331-97cc-26c7b18756d5" />
 
-### 📈 Dashboard Page 2 — Age, Revenue & Payment Insights
-<img width="1239" height="716" alt="image" src="https://github.com/user-attachments/assets/eb9307c6-66e8-444d-b21b-55df799adac4" />
+
+### 📈 Dashboard Page 2 — 
+<img width="1239" height="716" alt="image" src="https://github.com/user-attachments/assets/fdc82c7b-603a-4b6e-a669-723f538f811c" />
 
 
 > 💡 *To explore interactively, open `Customer_Data_Analysis.pbix` in Power BI Desktop.*
@@ -96,4 +97,33 @@ Below are the **interactive Power BI dashboard pages** created for this project:
 - **Digital payments** growing steadily  
 🔹 *Encourage digital payments through cashback and loyalty programs*
 
+
 ---
+
+## 🧭 Business Recommendations
+✅ Prioritize marketing for **female and senior customers**  
+✅ Invest in **digital payment incentives**  
+✅ Promote **underperforming product categories**  
+✅ Enhance **youth engagement** through social media
+
+---
+
+## 👨‍💻 Prepared By
+
+| Name | Role | Email |
+|------|------|--------|
+| **Pruthiraj Samal** | Data Analyst | [pruthirajsamal8802@gmail.com](mailto:pruthirajsamal8802@gmail.com) |
+
+---
+
+## 🪪 License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this work with proper attribution.
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project insightful, don’t forget to **star the repo**!
+
+</div>
