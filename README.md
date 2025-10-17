@@ -56,10 +56,11 @@ The analysis helps identify customer preferences, revenue trends, and marketing 
 Below are the **interactive Power BI dashboard pages** created for this project:
 
 ### 📊 Dashboard Page 1 — Overview, Gender & Category Insights
-<img src="dashboard/Screenshot_2025-10-17_180447.png" alt="Dashboard Page 1" width="900"/>
+<img width="1240" height="714" alt="image" src="https://github.com/user-attachments/assets/eb2d9573-9e4e-454b-9fbb-11c44a906073" />
 
 ### 📈 Dashboard Page 2 — Age, Revenue & Payment Insights
-<img src="dashboard/Screenshot_2025-10-17_180504.png" alt="Dashboard Page 2" width="900"/>
+<img width="1239" height="716" alt="image" src="https://github.com/user-attachments/assets/eb9307c6-66e8-444d-b21b-55df799adac4" />
+
 
 > 💡 *To explore interactively, open `Customer_Data_Analysis.pbix` in Power BI Desktop.*
 
